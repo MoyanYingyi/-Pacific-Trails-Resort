@@ -1,0 +1,1 @@
+This is a case study for CIS300. Pacific Trails Resort website should be built as practice.These case studies serve as a way to reinforce the skills discussed within each chapter.
