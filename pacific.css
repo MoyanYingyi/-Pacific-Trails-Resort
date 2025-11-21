@@ -196,3 +196,22 @@ nav li{
     }
   }
 }
+table{
+    border-collapse:collapse;
+    border: 2px solid #3399CC;
+}
+td{
+    padding: 0.5em;
+    border: 2px solid #3399CC;
+    text-align: center;
+}
+th{
+    padding: 0.5em;
+    border: 2px solid #3399CC;
+}
+.text{
+    text-align: left;
+}
+tr:nth-of-type(odd){
+    background-color: #F5FAFC;
+}
